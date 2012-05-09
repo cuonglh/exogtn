@@ -1,6 +1,9 @@
 Welcome to GateIn:
 ===========================
 
+Cuong made some changes
+
+
 This will explain you how to build a package of GateIn with Tomcat or JBoss.
 
 *****************
